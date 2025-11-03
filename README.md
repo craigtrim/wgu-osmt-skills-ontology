@@ -3,10 +3,11 @@
 Compact RDF/Turtle ontology derived from Western Governors University’s **Open Skills Management Tool (OSMT)** Rich Skill Descriptors (RSDs).  
 **Base IRI:** `https://w3id.org/wgu/osmt/skills#` (persistent via w3id)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Data Terms](https://img.shields.io/badge/Data-OSMT%2FWGU%20terms-orange.svg)](./LICENSE-DATA.md)
-[![Latest Release](https://img.shields.io/github/v/release/craigtrim/wgu-osmt-skills-ontology?include_prereleases&label=release)](../../releases)
-[![w3id](https://img.shields.io/badge/IRI-w3id.org%2Fwgu%2Fosmt%2Fskills-black.svg)](https://w3id.org/wgu/osmt/skills)
+[![Latest Release](https://img.shields.io/github/v/release/craigtrim/wgu-osmt-skills-ontology?include_prereleases&label=release&style=flat)](../../releases)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17517047-7952b3?style=flat)](https://doi.org/10.5281/zenodo.17517047)
+[![IRI](https://img.shields.io/badge/IRI-w3id.org%2Fwgu%2Fosmt%2Fskills-black?style=flat)](https://w3id.org/wgu/osmt/skills)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0a66c2?style=flat)](./LICENSE)
+[![Data Terms](https://img.shields.io/badge/Data-OSMT%2FWGU%20terms-f39c12?style=flat)](./LICENSE-DATA.md)
 
 ---
 
