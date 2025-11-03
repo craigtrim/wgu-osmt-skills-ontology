@@ -1,6 +1,7 @@
-# WGU OSMT Skills Ontology (v2025.11.01)
+# WGU OSMT Skills Ontology 
 
 Compact RDF/Turtle ontology derived from Western Governors University’s **Open Skills Management Tool (OSMT)** Rich Skill Descriptors (RSDs).  
+
 **Base IRI:** `https://w3id.org/wgu/osmt/skills#` (persistent via w3id)
 
 [![Latest Release](https://img.shields.io/github/v/release/craigtrim/wgu-osmt-skills-ontology?include_prereleases&label=release&style=flat)](../../releases)
