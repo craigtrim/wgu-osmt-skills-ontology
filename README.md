@@ -21,13 +21,13 @@ A single Turtle file:
 
 ## Namespace / Prefix
 
-'''
+```
 @base <https://w3id.org/wgu/osmt/skills#> .
 @prefix :    <https://w3id.org/wgu/osmt/skills#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos:<http://www.w3.org/2004/02/skos/core#> .
 # ...any others you use...
-'''
+```
 
 Example resources: `:rsd-<uuid>`, `:col-<uuid>`, `:kw-<slug>`, `:bls-<code>`.
 
@@ -39,22 +39,22 @@ Example resources: `:rsd-<uuid>`, `:col-<uuid>`, `:kw-<slug>`, `:bls-<code>`.
 - GitHub Release asset (recommended), or clone and use the `.ttl` directly.
 
 ### Validate file
-'''
+```
 # macOS
 shasum -a 256 wgu-osmt-skills-ontology_v2025.11.01.ttl
 
 # Linux
 sha256sum wgu-osmt-skills-ontology_v2025.11.01.ttl
-'''
+```
 
 ### Load in Protégé
 - File → Open… → select `wgu-osmt-skills-ontology_v2025.11.01.ttl`
 - Ensure base IRI shows as `https://w3id.org/wgu/osmt/skills#`
 
 ### cURL test (content negotiation via w3id)
-'''
+```
 curl -L -H 'Accept: text/turtle' https://w3id.org/wgu/osmt/skills | head
-'''
+```
 
 ---
 
@@ -82,7 +82,7 @@ If you use this ontology, please cite:
 Add a `CITATION.cff` in your project referencing this repo and version.
 
 **BibTeX:**
-'''
+```
 @dataset{wgu_osmt_skills_ontology_2025_11_01,
   title   = {WGU OSMT Skills Ontology},
   author  = {Trim, Craig},
@@ -90,7 +90,7 @@ Add a `CITATION.cff` in your project referencing this repo and version.
   year    = {2025},
   url     = {https://w3id.org/wgu/osmt/skills}
 }
-'''
+```
 
 ---
 
