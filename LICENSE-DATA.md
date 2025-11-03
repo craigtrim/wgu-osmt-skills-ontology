@@ -1,7 +1,7 @@
 # LICENSE-DATA
 
 **Scope.**  
-This file governs the *data* contained in this repository—namely the canonicalized exports of Rich Skill Descriptors (RSDs) from Western Governors University’s **Open Skills Management Tool (OSMT)** that have been packaged here as a single Turtle ontology file and related manifests. It does **not** apply to any code or documentation in this repository (see `LICENSE` for that).
+This file governs the *data* contained in this repository; namely the canonicalized exports of Rich Skill Descriptors (RSDs) from Western Governors University’s **Open Skills Management Tool (OSMT)** that have been packaged here as a single Turtle ontology file and related manifests. It does **not** apply to any code or documentation in this repository (see `LICENSE` for that).
 
 ## Ownership & Source
 
@@ -24,7 +24,7 @@ This file governs the *data* contained in this repository—namely the canonical
 
 When citing or redistributing, include:
 
-- Source: *Western Governors University — Open Skills Management Tool (OSMT)*  
+- Source: *Western Governors University; Open Skills Management Tool (OSMT)*  
 - Link: <https://osmt.wgu.edu/> (and per-item `dct:source` URLs where relevant)  
 - Packager: *Craig Trim (canonicalization/packaging only)*  
 - Version of this package: e.g., **2025.11.01**  

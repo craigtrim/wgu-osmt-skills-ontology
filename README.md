@@ -68,8 +68,8 @@ curl -L -H 'Accept: text/turtle' https://w3id.org/wgu/osmt/skills | head
 
 ## Licensing
 
-- **Code/Docs:** MIT — see `LICENSE`.
-- **Data/Content:** Subject to upstream OSMT/WGU terms — see `LICENSE-DATA.md`.  
+- **Code/Docs:** MIT. See `LICENSE`.
+- **Data/Content:** Subject to upstream OSMT/WGU terms.  See `LICENSE-DATA.md`.  
   This repo does **not** grant additional rights beyond upstream terms.
 
 ---
