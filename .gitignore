@@ -1,0 +1,73 @@
+# --- repo-specific (keep TTL tracked) ---
+# do NOT ignore .ttl
+# keep only metadata + ontology file in Git
+
+# --- OS cruft ---
+.DS_Store
+._*
+Icon?
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+config.sh
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.code-workspace
+.history/
+*.sublime-*
+*.swp
+*.swo
+
+# --- Common backups / temp ---
+*~
+*.bak
+*.tmp
+*.temp
+*.orig
+*.old
+*.rej
+*.log
+
+# --- Python (if you run quick scripts alongside) ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.eggs/
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+.cache/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.pyright/
+.pyre/
+.ruff_cache/
+.venv/
+venv/
+env/
+env.bak/
+.env
+.env.*
+
+# --- Node (just in case) ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Jupyter (if any sneak in) ---
+.ipynb_checkpoints/
+
+# --- Archive blobs (don’t check large exports here) ---
+*.zip
+*.tar
+*.tar.gz
+*.tar.zst
+*.zst

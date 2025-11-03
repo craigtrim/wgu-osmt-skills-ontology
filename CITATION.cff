@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: WGU OSMT Skills Ontology (TTL)
+message: Please cite this ontology if you use it.
+authors:
+  - family-names: Trim
+    given-names: Craig
+version: 2025.11.01
+date-released: 2025-11-03
+repository-code: https://github.com/craigtrim/wgu-osmt-skills-ontology
+keywords: [WGU, OSMT, RSD, skills, ontology, TTL]
+license: MIT

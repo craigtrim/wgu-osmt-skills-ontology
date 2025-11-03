@@ -1,0 +1,28 @@
+NOTICE
+
+This repository packages Rich Skill Descriptors (RSDs) exported from Western Governors University’s
+Open Skills Management Tool (OSMT). Filenames/IRIs were normalized for reproducibility; the underlying
+content is unmodified.
+
+Upstream ownership:
+  © Western Governors University / Open Skills Network and/or their respective rights holders.
+  Source service: https://osmt.wgu.edu/
+
+Attribution:
+  - Per-item provenance is retained via dct:source links in the TTL.
+  - When citing/redistributing, clearly attribute WGU/OSN/OSMT and note that upstream terms govern.
+  - Suggested namespace for terms used here: https://w3id.org/wgu/osmt/skills#
+
+Packager:
+  Craig Trim — canonicalization/packaging only (no content edits)
+  Package version: 2025.11.01
+
+Licensing:
+  - Code/docs in this repo: MIT (see LICENSE).
+  - Data: governed by Upstream’s terms (see LICENSE-DATA.md). No additional rights granted.
+
+Trademarks:
+  All trademarks, service marks, and logos are the property of their respective owners.
+
+Takedown / Rights requests:
+  Open a GitHub issue on this repository and include the exact IRI(s) or filename(s) in question.
